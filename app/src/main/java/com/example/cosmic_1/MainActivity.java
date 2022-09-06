@@ -11,6 +11,7 @@ import android.view.View;
 import android.widget.ListView;
 
 import com.example.cosmic_1.Fragment.affirmation_fragment;
+import com.example.cosmic_1.Fragment.headSpace;
 import com.example.cosmic_1.Fragment.meditation_fragment;
 import com.example.cosmic_1.Fragment.symptoms_fragment;
 import com.example.cosmic_1.Fragment.things_fragment;
@@ -52,7 +53,17 @@ break;
 
                     case R.id.meditation:
                         transaction.replace(R.id.mainActivity, new meditation_fragment());
+
+
+                        break;
+
+                    case R.id.HeadSPace_:
+                        transaction.replace(R.id.mainActivity, new headSpace());
+
+
 break;
+
+
                     case R.id.symptoms:
                         transaction.replace(R.id.mainActivity, new symptoms_fragment());
 break;

@@ -17,6 +17,11 @@
         android:title="Meditation" />
 
     <item
+        android:id="@+id/HeadSPace_"
+        android:icon="@drawable/ic_headspace"
+        android:title="Headspace" />
+
+    <item
         android:title="Things"
         android:id="@+id/things"
         android:icon="@drawable/ic_things"
