@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">cosmic_1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="affirmation">affirmation</string>
+    <string name="meditation">meditation</string>
+    <string name="symtoms">symtoms</string>
+    <string name="things">things</string>
+    <string name="sonu">sonu</string>
+    <string name="quotes">Quotes</string>
+    <string name="q1"> Asking for help is a sign of self-respect and self-awareness.</string>
+    <string name="q2"> 2Asking for help is a sign of self-respect and self-awareness.</string>
+    <string name="q3"> 3A3sking for help is a sign of self-respect and self-awareness.</string>
+    <string name="q4"> 4As4king for help is a sign of self-respect and self-awareness.</string>
+    <string name="q5"> 5Ask5ing for help is a sign of self-respect and self-awareness.</string>
+    <string name="q6"> 6Aski6ng for help is a sign of self-respect and self-awareness.</string>
+    <string name="q7"> 7Askin7g for help is a sign of self-respect and self-awareness.</string>
+    <string name="q8"> 8Asking8 for help is a sign of self-respect and self-awareness.</string>
+    <string name="q9"> 9Asking 9for help is a sign of self-respect and self-awareness.</string>
+    <string name="q10"> 10Asking 0for help is a sign of self-respect and self-awareness.</string>
+    <string name="next_affirmation">Next Affirmation</string>
+</resources>

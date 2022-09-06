@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Symptoms"
+        android:id="@+id/symptoms"
+        android:icon="@drawable/ic_symptoms"
+        />
+    <item
+        android:id="@+id/affirmation"
+        android:icon="@drawable/ic_heart"
+        android:title="Affirmation" />
+
+    <item
+        android:id="@+id/meditation"
+        android:icon="@drawable/ic_meditation"
+        android:title="Meditation" />
+
+    <item
+        android:title="Things"
+        android:id="@+id/things"
+        android:icon="@drawable/ic_things"
+        />
+</menu>
